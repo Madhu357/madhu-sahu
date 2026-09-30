@@ -1,0 +1,6 @@
+{
+  "name": "Lunar Lander Arcade",
+  "description": "Classic vector arcade simulation of Lunar Lander with realistic 2D Newtonian physics, procedural jagged lunar surface, multiple landing pads, thruster particles, and telemetry HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
